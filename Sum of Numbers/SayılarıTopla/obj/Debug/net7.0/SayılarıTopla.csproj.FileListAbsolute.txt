@@ -1,0 +1,45 @@
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.deps.json
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.runtimeconfig.json
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.dll
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.pdb
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.csproj.AssemblyReference.cache
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.AssemblyInfoInputs.cache
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.AssemblyInfo.cs
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.dll
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/refint/SayılarıTopla.dll
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.pdb
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.genruntimeconfig.cache
+/Users/efe/Projects/SayılarıTopla/SayılarıTopla/obj/Debug/net7.0/ref/SayılarıTopla.dll
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.deps.json
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.runtimeconfig.json
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.dll
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.pdb
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.csproj.AssemblyReference.cache
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.AssemblyInfoInputs.cache
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.AssemblyInfo.cs
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.csproj.CoreCompileInputs.cache
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.dll
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/refint/SayılarıTopla.dll
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.pdb
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.genruntimeconfig.cache
+/Users/efe/Desktop/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/ref/SayılarıTopla.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.csproj.AssemblyReference.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.AssemblyInfoInputs.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.AssemblyInfo.cs
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.csproj.CoreCompileInputs.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/refint/SayılarıTopla.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.pdb
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.deps.json
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.runtimeconfig.json
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/bin/Debug/net7.0/SayılarıTopla.pdb
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/SayılarıTopla.genruntimeconfig.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Sum of Numbers/SayılarıTopla/obj/Debug/net7.0/ref/SayılarıTopla.dll
